@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "f1efa4fa9a624fd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a166ee29632cadd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0dfc9a42a83b92d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30 Resources/31 Books/31 How to study as a math major.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "31 How to study as a math major"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c072400dfc3eb530",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7993941f62a228f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b47d014b0b5015f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2dc1799a389099ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6751f7cb2ec4c516",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "right": {
+    "id": "a23a93d03085cbef",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c3341cc3870e732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04561deea5cc5e17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "90 Meta/Templates/T - Atomic Note.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for T - Atomic Note.md"
+            }
+          },
+          {
+            "id": "f848c44fe350eb3d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "90 Meta/Templates/T - Atomic Note.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from T - Atomic Note.md"
+            }
+          },
+          {
+            "id": "4c4f0c1c713feb2f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "08e7c40b1537b014",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10 Atomic Notes/10 renv.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 10 renv"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e0dfc9a42a83b92d",
+  "lastOpenFiles": [
+    "20 MOCs/20 Causal Inference.md",
+    "40 Attachments/20 Causal Inference 30-05-25.excalidraw.md",
+    "20 Causal Inference 2025-05-30 16.11.11.excalidraw.md",
+    "20 Causal Inference 30-05-25.excalidraw.md",
+    "40 Attachments/20 MOCs/20 Causal Inference-Pasted image 20250530160119.png",
+    "20 Causal Inference 2025-05-30 16.01.41.excalidraw.md",
+    "50 Projects/50 vaccine uptake/Tracker.md",
+    "90 Meta/Templates/ZI - Literature Note.md.md",
+    "40 Attachments/20 MOCs/20 Causal Inference.png",
+    "40 Attachments/20 MOCs/20 Causal Inference-please work.png",
+    "40 Attachments/20 MOCs",
+    "40 Attachments/20 MOCs/20 MOCs/20 Causal Inference.md.png",
+    "40 Attachments/20 MOCs/20 MOCs",
+    "40 Attachments/20 MOCs/file-20250530155547399.png",
+    "40 Attachments/20 MOCs/file-20250530155544931.png",
+    "40 Attachments/20 MOCs/file-20250530154859200.png",
+    "40 Attachments/20 MOCs/file-20250530155037415.png",
+    "40 Attachments/20 MOCs/file-20250530154646480.png",
+    "40 Attachments/20 MOCs/file-20250530154639573.png",
+    "10 Atomic Notes/10 (unconditionally) independent.md",
+    "40 Attachments/Excalidraw/Tracker 2025-05-30 14.55.25.excalidraw.md",
+    "40 Attachments/Excalidraw",
+    "50 Projects/50 vaccine uptake/outline.md",
+    "20 MOCs/20 Regression MOC.md",
+    "40 Attachments/Excalidraw/20 Causal Inference 2025-05-30 13.33.15.excalidraw.md",
+    "40 Attachments/z40 README.md.md",
+    "30 Resources/39 Literature Notes/@rivera_2024/@rivera_2024.md",
+    "30 Resources/39 Literature Notes/@rivera_2024",
+    "50 Projects/z50 project template/Literature Overview template.md",
+    "50 Projects/50 vaccine uptake/Literature Overview.md",
+    "50 Projects/z50 project template",
+    "30 Resources/39 Literature Notes",
+    "30 Resources/39 Literature Notes/z39 Literature annotation guide.md",
+    "90 Meta/Templates/T - Scribble.md.md",
+    "30 Resources/z30 README.md.md",
+    "30 Resources/39 Literature Notes/@rivera_2024.md",
+    "90 Meta/90 README.md.md",
+    "50 Projects/50 vaccine uptake/Supplementary Materials.md",
+    "50 Projects/50 vaccine uptake/test.md",
+    "40 Attachments/Excalidraw/20 Causal Inference 2025-05-29 19.24.35.excalidraw.md",
+    "40 Attachments/Excalidraw/20 Regression MOC 2025-05-29 19.23.33.excalidraw.md",
+    "40 Attachments/Excalidraw/20 Causal Inference 2025-05-29 19.22.17.excalidraw.md",
+    "40 Attachments/10 Atomic Notes",
+    "40 Attachments/38 References/shmueli.pdf",
+    "40 Attachments/38 References/pH1KN5kSyyuDNnmsCAtn_Model-assumptions.pdf",
+    "40 Attachments/31 Books/How to Study as a Mathematics Major -- Lara Alcock -- Oxford University Press USA, Oxford, 2013 -- Oxford University Press, Usa -- 9780191637346 -- b25c4c89f88780468e266d0165b7875f -- Anna’s Archive.pdf"
+  ]
+}

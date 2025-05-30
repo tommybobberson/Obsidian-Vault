@@ -1,0 +1,29 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "39 Literature Notes",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "NIH",
+      "format": "formatted-citation",
+      "cslStyle": "national-institute-of-health-research"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Literature Note",
+      "outputPathTemplate": "30 Resources/39 Literature Notes/@{{citekey}}/@{{citekey}}.md",
+      "imageOutputPathTemplate": "30 Resources/39 Literature Notes/@{{citekey}}",
+      "imageBaseNameTemplate": "literature_image",
+      "templatePath": "90 Meta/Templates/ZI - Literature Note.md.md",
+      "cslStyle": "national-institute-of-health-research"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "exeOverridePath": "C:\\Users\\kevin\\Documents\\Obsidian Vault\\.obsidian\\pdfannots2json.exe",
+  "shouldConcat": true
+}
