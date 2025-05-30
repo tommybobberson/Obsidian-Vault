@@ -42,7 +42,7 @@ For linear regression, [[10 mean squared error|OLS]] is usually employed where y
 - Due to the [[30 Multiple linear model assumptions|linear model assumptions]], you're just quantifying the proportion of each result that is explained by each variable in the model.
 	- the total effect of X on Y is equal to the sum of the direct and indirect effects of X
 
-2.  **The indirect effect of X on Y through M is the product of each of the indirect effects through that respective causal path (i.e. X on M and the effect of M on Y**)![[Regression 2025-05-11 02.51.26.excalidraw]]
+2.  **The indirect effect of X on Y through M is the product of each of the indirect effects through that respective causal path (i.e. X on M and the effect of M on Y**)![[10 Regression 2025-05-11 02.51.26.excalidraw]]
 	- This doesn't hold for [[10 Logistic Regression]] as we're not dealing with slopes (which are directly additive) but with [[10 logit|log odds]] (or the [[odds ratio]] instead), thus when we have $OR_{XM} * OR_{MY}$we aren't getting the sum of the odds ratio anymore, but rather some weird number, the ORs have to be summed instead.
 
 3. The [[10 confounders|omitted variable bias]] or bias from [[10 confounders]] is equal to the product of X on M and X on Y can be calculated from the following mantra:

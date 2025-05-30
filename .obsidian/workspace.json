@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 Resources/31 Books/31 How to study as a math major.md",
+                "file": "40 Attachments/z40 README.md.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "31 How to study as a math major"
+              "title": "z40 README.md"
             }
           }
         ]
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90 Meta/Templates/T - Atomic Note.md.md",
+                "file": "40 Attachments/z40 README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for T - Atomic Note.md"
+              "title": "Backlinks for z40 README.md"
             }
           },
           {
@@ -152,13 +152,11 @@
               "title": "Outline of 10 renv"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,51 +171,51 @@
   },
   "active": "e0dfc9a42a83b92d",
   "lastOpenFiles": [
-    "20 MOCs/20 Causal Inference.md",
-    "40 Attachments/20 Causal Inference 30-05-25.excalidraw.md",
-    "20 Causal Inference 2025-05-30 16.11.11.excalidraw.md",
-    "20 Causal Inference 30-05-25.excalidraw.md",
-    "40 Attachments/20 MOCs/20 Causal Inference-Pasted image 20250530160119.png",
-    "20 Causal Inference 2025-05-30 16.01.41.excalidraw.md",
-    "50 Projects/50 vaccine uptake/Tracker.md",
-    "90 Meta/Templates/ZI - Literature Note.md.md",
-    "40 Attachments/20 MOCs/20 Causal Inference.png",
-    "40 Attachments/20 MOCs/20 Causal Inference-please work.png",
-    "40 Attachments/20 MOCs",
-    "40 Attachments/20 MOCs/20 MOCs/20 Causal Inference.md.png",
-    "40 Attachments/20 MOCs/20 MOCs",
-    "40 Attachments/20 MOCs/file-20250530155547399.png",
-    "40 Attachments/20 MOCs/file-20250530155544931.png",
-    "40 Attachments/20 MOCs/file-20250530154859200.png",
-    "40 Attachments/20 MOCs/file-20250530155037415.png",
-    "40 Attachments/20 MOCs/file-20250530154646480.png",
-    "40 Attachments/20 MOCs/file-20250530154639573.png",
-    "10 Atomic Notes/10 (unconditionally) independent.md",
-    "40 Attachments/Excalidraw/Tracker 2025-05-30 14.55.25.excalidraw.md",
-    "40 Attachments/Excalidraw",
-    "50 Projects/50 vaccine uptake/outline.md",
-    "20 MOCs/20 Regression MOC.md",
-    "40 Attachments/Excalidraw/20 Causal Inference 2025-05-30 13.33.15.excalidraw.md",
+    "40 Attachments/z40 README.md 30-05-25.excalidraw.md",
     "40 Attachments/z40 README.md.md",
-    "30 Resources/39 Literature Notes/@rivera_2024/@rivera_2024.md",
-    "30 Resources/39 Literature Notes/@rivera_2024",
-    "50 Projects/z50 project template/Literature Overview template.md",
+    "50 Projects/50 vaccine uptake/Tracker.md",
+    "50 Projects/50 vaccine uptake/outline.md",
+    "50 Projects/50 vaccine uptake/Supplementary Materials.md",
     "50 Projects/50 vaccine uptake/Literature Overview.md",
+    "10 Atomic Notes/10 adjusted coefficient of determination.md",
+    "40 Attachments/10 adjusted coefficient of determination 30-05-25.excalidraw.md",
+    "40 Attachments/20 Causal Inference 30-05-25.excalidraw.md",
+    "20 MOCs/20 Causal Inference.md",
+    "40 Attachments/Untitled.md",
+    "40 Attachments/10 Atomic Notes/Pasted image 20250519125218.png",
+    "40 Attachments/10 Atomic Notes/Pasted Image 20250519125558_775.png",
+    "40 Attachments/10 Atomic Notes/Test 2025-05-11 02.04.44.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/Pasted Image 20250519125400_794.png",
+    "40 Attachments/10 Atomic Notes/10 Two way ANOVA 2025-05-19 12.47.31.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/10 Two way ANOVA 2025-05-19 12.47.31.excalidraw.png",
+    "40 Attachments/10 Atomic Notes/10 selection bias 2025-04-30 11.39.00.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/10 Regression 2025-05-11 02.51.26.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/10 paths 2025-04-24 14.11.59.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/10 Nodes 2025-04-23 10.47.23.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/10 DAGs 2025-04-23 10.42.10.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/10 d seperation 2025-04-24 14.25.19.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/10 confounders 2025-04-24 16.24.50.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/10 confounders 2025-04-24 15.11.34.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/10 common cause 2025-04-23 18.25.25.excalidraw.md",
+    "40 Attachments/10 Atomic Notes/10 Causal relationships 2025-04-24 10.36.14.excalidraw.md",
+    "40 Attachments/50 vaccine uptake/Pasted image 20250522202004.png",
+    "30 Resources/31 Books/31 Regression Modelling Strategies, Frank E. Harell, Jr.md",
+    "40 Attachments/50 vaccine uptake/Drawing 2025-05-14 13.34.12.excalidraw.png",
+    "40 Attachments/50 vaccine uptake/Supplementary Materials 1.png",
+    "40 Attachments/50 vaccine uptake/Supplementary Materials.png",
+    "40 Attachments/50 vaccine uptake/Tracker 2025-05-26 18.10.10.excalidraw 6.png",
+    "40 Attachments/50 vaccine uptake/Tracker 2025-05-26 18.03.59.excalidraw 2.png",
+    "40 Attachments/50 vaccine uptake/Drawing 2025-05-13 17.48.15.excalidraw.md",
+    "10 Atomic Notes/10 Two way ANOVA.md",
+    "40 Attachments/38 References/~$idemiology notes cloud.docx",
+    "40 Attachments/20 MOCs",
+    "40 Attachments/20 MOCs/20 MOCs",
+    "40 Attachments/Excalidraw",
+    "30 Resources/39 Literature Notes/@rivera_2024",
     "50 Projects/z50 project template",
     "30 Resources/39 Literature Notes",
-    "30 Resources/39 Literature Notes/z39 Literature annotation guide.md",
-    "90 Meta/Templates/T - Scribble.md.md",
-    "30 Resources/z30 README.md.md",
-    "30 Resources/39 Literature Notes/@rivera_2024.md",
-    "90 Meta/90 README.md.md",
-    "50 Projects/50 vaccine uptake/Supplementary Materials.md",
-    "50 Projects/50 vaccine uptake/test.md",
-    "40 Attachments/Excalidraw/20 Causal Inference 2025-05-29 19.24.35.excalidraw.md",
-    "40 Attachments/Excalidraw/20 Regression MOC 2025-05-29 19.23.33.excalidraw.md",
-    "40 Attachments/Excalidraw/20 Causal Inference 2025-05-29 19.22.17.excalidraw.md",
     "40 Attachments/10 Atomic Notes",
-    "40 Attachments/38 References/shmueli.pdf",
-    "40 Attachments/38 References/pH1KN5kSyyuDNnmsCAtn_Model-assumptions.pdf",
-    "40 Attachments/31 Books/How to Study as a Mathematics Major -- Lara Alcock -- Oxford University Press USA, Oxford, 2013 -- Oxford University Press, Usa -- 9780191637346 -- b25c4c89f88780468e266d0165b7875f -- Anna’s Archive.pdf"
+    "40 Attachments/38 References/30 Explanatory vs Predictive models and how to carry ou.pdf",
+    "40 Attachments/38 References/30 Multiple linear model assumptions.pdf"
   ]
 }

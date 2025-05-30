@@ -15,7 +15,7 @@ status: WIP
 - only one way arrows
 - typically, without conditioning: A ⫫/ C
 - [[10 conditional independence]]: _A_ ⊥ _C_ | _B_
-	-![[Causal relationships 2025-04-23 18.33.56.excalidraw]]
+	-![[10 Causal relationships 2025-04-23 18.33.56.excalidraw]]
 	- the flow of dependency from A to C is not [[10 blocked]]
 	- Flow from A to C can be blocked by [[10 conditioning]] B, only when C's only parent is B 
 	- B is a [[10 mediator]] 

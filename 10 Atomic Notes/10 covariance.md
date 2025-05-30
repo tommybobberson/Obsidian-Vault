@@ -13,7 +13,7 @@ status: WIP
  - **units**: depend on the variables being measured
  - **range**: $- \infty to \infty$
  
-![[Pasted image 20250430120214.png]]
+![[10 covariance.png]]
 
 ## Properties of Covariance
 1. **Covariance is commutative**: $cov(x,y) = cov(y,x)$ for any random variables $x,y$

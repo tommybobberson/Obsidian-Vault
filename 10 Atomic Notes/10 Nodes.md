@@ -23,7 +23,7 @@ Nodes are elements of a graph that are connected by [[10 edges]]
 
 **parent child relationships are relative to the different nodes we are observing**
 	- Y is the parent of L and the child of X etc.
-![[Nodes 2025-04-23 10.47.23.excalidraw]]
+![[10 Nodes 2025-04-23 10.47.23.excalidraw]]
 **ancestor**: a special parent node that is the starting node of all nodes connected by a path e.g. X is the ancestor of Y, L and Z
 
 **Configurations**

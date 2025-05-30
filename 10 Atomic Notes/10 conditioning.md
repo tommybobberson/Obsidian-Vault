@@ -22,7 +22,7 @@ in research, you control or condition on a variable by holding that variable con
 	[[10 CI Chain|Chain]]: conditioning results in the path to be closed 
 	[[10 Causal Structures|fork]]: conditioning results in the path to be closed 
 	[[collider]]: conditioning opens the path
-![[Causal relationships 2025-04-23 18.33.56.excalidraw]]
+![[10 Causal relationships 2025-04-23 18.33.56.excalidraw]]
 e.g. A is gender, B is construction career or not, C is cancer from abestos
 		- males are more likely to be construction workers, thus if we view a to c, it may seem like males are more likely to get cancer from abestos, but that's only because they are more likely to (B) work in construction
 		- Controlling for the people who work in construction, i.e. we take the same number of construction and non construction workers from males and females , the rate of cancer form asbestos in males and females is the same

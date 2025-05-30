@@ -28,7 +28,7 @@ status: WIP
 
 
 
-![[Causal relationships 2025-04-24 10.36.14.excalidraw]]
+![[10 Causal relationships 2025-04-24 10.36.14.excalidraw]]
 - imagine  C and D (both rivers) flow into E, thus if you [[condition]] on E, the descendant of the ancestors, the flow of C and D must add up (C affects D) and thus they are **dependent** e.g. 
 	- E is the probability of getting cancer, C (smoking) and D (asbestos exposure). If there is no D, then there must be C (assuming D and C are the only factors affecting cancer)
 - [[10 conditional independence]] doesn't hold either when if, the descendants of E are [[conditioned]] - as you're indirectly constraining the value of E

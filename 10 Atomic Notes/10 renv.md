@@ -15,7 +15,7 @@ updated: 2025-05-23 12:08
 ## Overview
 In this document we will be going through renv, a package that can be used to ensure the portability of R projects across different machines, by ensuring fixed dependencies (and a fixed R environment)
 
-![[Pasted image 20250523121517.png]]
+![[10 renv.png]]
 
 
 ## Commands and Files

@@ -33,4 +33,4 @@ Covers the assumptions in fitting a multiple linear model, and the assumptions y
 <!-- Link to other relevant notes in 30 Resources -->
 
 
-![[pH1KN5kSyyuDNnmsCAtn_Model-assumptions.pdf]]
+![[30 Multiple linear model assumptions.pdf]]

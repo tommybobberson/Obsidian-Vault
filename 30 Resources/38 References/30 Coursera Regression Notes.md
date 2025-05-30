@@ -20,9 +20,9 @@ updated: 2025-05-09 17:11
 - covers [[survival analysis]]
 - covers [[10 confounders]] and [[10 effect modification]]
 
-![[Epidemiology notes cloud 1.docx]]
-![[Epidemiology Regression.docx]]
-![[Multiple Regression Notes 2.docx]]
+![[30 Coursera Regression Notes.docx]]
+![[30 Coursera Regression Notes 1.docx]]
+![[30 Coursera Regression Notes 2.docx]]
 
 ## Key Concepts / Takeaways
 

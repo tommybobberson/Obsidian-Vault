@@ -19,7 +19,7 @@ status: WIP
 - something that affects both the treatment and outcome of interest (related to both the independent and dependent variable)
 - Can result in [[10 Simpson's Paradox]]
 - Here L is confounding the relationship between X and Y
-![[confounders 2025-04-24 15.11.34.excalidraw]]
+![[10 confounders 2025-04-24 15.11.34.excalidraw]]
 **FIX**: 
 - we want to leave only the direct effect of X -> Y
 - [[10 conditioning|control]] all common causes of X and Y (the dependent variable and independent variable), to remove unwanted dependency/backdoor paths
@@ -43,14 +43,14 @@ status: WIP
 ## Cases  of Confounding
 **immeasurable variables**
 - You cannot adjust for confounders which are unobservable/immeasurable variables (e.g. Joy)
-![[confounders 2025-04-24 16.24.50.excalidraw]]
+![[10 confounders 2025-04-24 16.24.50.excalidraw]]
 But you can control for **mediators** to the confounder and treatment of interest e.g. smiles per hour. Thus, closing the backdoor path from Joy to Friends, and removing the confounding effect that Joy has on the relationship between one's friends and health
 
 By conditioning on the mediator (smiles) there is [[10 conditional independence]] between Joy and Friends
 
 **surrogate confounders**
 In cases where there are immeasurable variables, but there are no [[10 mediator]] variables which you can condition on, you can try to eliminate bias by conditioning on proxies to the confounder, aka surrogate confounders (which lead to the confoudner itself)
-![[confounders 2025-04-24 16.34.25.excalidraw]]
+![[10 confounders 2025-04-24 16.34.25.excalidraw]]
 say we can't or didn't measure smiles per hour, we can get a feel for one's joy by taking reference to things that would have affected it (happy and sad events in their lives) - unable to eliminate [[10 bias]] completely
 
 

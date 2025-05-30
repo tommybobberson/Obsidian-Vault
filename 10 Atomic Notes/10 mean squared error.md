@@ -53,7 +53,7 @@ $\hat{\beta} = (X'X)^{-1}X' Y$
 **Significance of each coefficient**: 
  **magnitude**: of the coefficient of each respective variable $i$, $\beta_i$, represents the unit change of the dependent variable with each unit change in each variable i
  **$R^2$:** of each coefficient, represents the **proportion of variance seen the dependent variable, Y** that each variable explains
-![[Linear Regression 2025-05-11 13.50.36.excalidraw]]
+![[10 Linear Regression 2025-05-11 13.50.36.excalidraw]]
 ---
 #### Linked Concepts (Auto-Generated)
 ```dataviewjs

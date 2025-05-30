@@ -14,7 +14,7 @@ related_concepts:
 ## Summary / Abstract
 - Talks about the difference in predictive and explanatory modelling
 - Talks about the procedure and pipeline in building each of these models
--![[Explanatory v predictive models - model building flow.png]]
+-![[30 Explanatory vs Predictive models and how to carry ou.png]]
 ## Key Concepts / Takeaways
 
 
@@ -22,4 +22,4 @@ related_concepts:
 
 
 ## Related Resources
-![[shmueli.pdf]]
+![[30 Explanatory vs Predictive models and how to carry ou.pdf]]

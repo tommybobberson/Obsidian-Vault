@@ -33,7 +33,7 @@ The relationships in causality can be classed differently based on the presence 
 
 **Illustration**
 
-![[Pasted image 20250424160323.png]]
+![[10 Causal Structures.png]]
 - Open arrows: [[10 independence|independent]]
 - tipped arrows: dependence
 - Grey Indicates [[10 conditioning]]

@@ -13,7 +13,7 @@ status: WIP
 # d seperation 
 A construct to determine whether [[10 Nodes]] are [[conditionally independent]]
 - d-seperation means that **every path** between 2 nodes is blocked resulting in [[10 conditional independence]]
-![[d seperation 2025-04-24 14.25.19.excalidraw]]
+![[10 d seperation 2025-04-24 14.25.19.excalidraw]]
 imagine A and B as [[10 Nodes]] and N as a set of nodes, P is the [[10 paths|path]] from A to B
 
 

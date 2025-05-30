@@ -27,4 +27,4 @@ updated: 2025-05-01 22:20
 
 <!-- Link to other relevant notes in 30 Resources -->
 
-![[Regression Modeling Strategies- 2nd edition- 2015.pdf]]
+![[31 Regression Modelling Strategies, Frank E. Harell, Jr.pdf]]

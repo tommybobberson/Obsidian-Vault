@@ -14,13 +14,13 @@ In a fitted linear model, it's the difference between the actual observed values
 
 **Mathematically**: 
 $residual_i = Y_i - \hat{Y_i}$
-![[Pasted image 20250503161900.png]]
+![[10 residuals.png]]
 
 **Characteristics and problems**
 - Directional (e.g. -ve or +ve): Thus, it cannot be directly used as a measure of deviation - the [[10 mean squared error|MSE]] must be computed first
 - The sum of all residuals = 0, the mean of all residuals = 0 (**in a given linear model**)
 ## properties of residuals in a linear model
-![[Pasted image 20250429085048.png]]
+![[10 residuals 1.png]]
 **assumptions of the residuals**:
 - Normally distributed
 - [[10 Homoscedastic]]

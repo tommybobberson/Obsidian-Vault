@@ -15,7 +15,7 @@ A mediator variable is a variable through which the causal effect flows, lying o
 In other words, a mediator accounts for the relationship between your dependent variable and independent variable of interest
 
 B is a mediator
-![[Causal relationships 2025-04-23 18.33.56.excalidraw]]
+![[10 Causal relationships 2025-04-23 18.33.56.excalidraw]]
 
 **types**:
 - partial mediation - the mediator explains some of the relationship between A and C

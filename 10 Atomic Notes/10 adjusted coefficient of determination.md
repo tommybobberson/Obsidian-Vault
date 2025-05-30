@@ -10,7 +10,7 @@ status: WIP
 created: 2025-05-21 20:07
 updated: 2025-05-21 20:07
 ---
-
+![[10 adjusted coefficient of determination 30-05-25.excalidraw]]
 ## Overview
 The adjusted coefficient of determination, $R_{adj}^2$ is a measure of the goodness of fit that helps to guard against overfitting, and makes up for $R^2$'s tendency to increase with increasing variables no matter the goodness of fit
 - Penalises terms that don't explain sufficient variance, or just explain noise when added to the model

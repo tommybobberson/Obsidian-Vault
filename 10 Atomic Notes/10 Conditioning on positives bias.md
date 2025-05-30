@@ -14,7 +14,7 @@ updated: 2025-05-24 02:12
 ## Overview 
 
 It occurs when you condition on an outcome that is itself a consequence of the treatment or, a shared cause of the treatment and another variable that affects treatment 
-![[Pasted image 20250524021500.jpg]]
+![[10 Conditioning on positives bias.jpg]]
 
 - Essentially by fixing the comparison of people who achieved a positive (or negative) outcome, you're limiting yourself to a subset of individuals who were more likely to have achieved the result, regardless of the treatment.
 

@@ -13,7 +13,7 @@ status: WIP
 # common cause 
 
 ## Summary/Definition
-![[common cause 2025-04-23 18.25.25.excalidraw]]
+![[10 common cause 2025-04-23 18.25.25.excalidraw]]
 ## Explanation
 L is an [[10 Nodes|ancestor node]] of both X and Y
 

@@ -1,24 +1,25 @@
 {
-  "attachmentFolderPath": "40 Attachments",
+  "attachmentFolderPath": "40 Attachments/${folderName}",
   "attachmentRenameMode": "All",
   "customTokensStr": "",
   "duplicateNameSeparator": " ",
   "emptyAttachmentFolderBehavior": "Delete",
   "excludePaths": [],
-  "generatedAttachmentFilename": "${fileName}-${prompt}",
+  "generatedAttachmentFilename": "${fileName}",
   "includePaths": [],
   "jpegQuality": 0.8,
   "markdownUrlFormat": "",
   "shouldConvertPastedImagesToJpeg": false,
   "shouldDeleteOrphanAttachments": false,
   "shouldRenameAttachmentFiles": true,
-  "shouldRenameAttachmentFolder": false,
+  "shouldRenameAttachmentFolder": true,
   "shouldRenameAttachmentsToLowerCase": false,
-  "shouldRenameCollectedAttachments": false,
+  "shouldRenameCollectedAttachments": true,
   "specialCharacters": "#^[]|*\\<>:?",
   "specialCharactersReplacement": "-",
   "treatAsAttachmentExtensions": [
-    ".excalidraw"
+    ".excalidraw.md",
+    ""
   ],
   "warningVersion": "7.7.5"
 }

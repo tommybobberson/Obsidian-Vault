@@ -14,13 +14,13 @@ updated: 2025-05-15 01:48
 ANOVA stands for analysis of variance and it tests if the means of 2 (or more groups differs. (*note it can't tell you which of them are different, it can only tell you if they're all the same or not )
 
 $H_0: u_a = u_b = u_c = u_d$
-$H_1: u_i \= u_j$ for some i and j (i. e. not **all** means are equal)
+$H_1: u_i \ne u_j$ for some i and j (i. e. not **all** means are equal)
 
 You can think of it as
 
 ![[10 ANOVA 2025-05-19 12.53.56.excalidraw]]
 By comparing the ratio of the within group variance against the between group variance ([[MSE]], which represents the, we see if the [[MSE]] (within group variance), which also represents the random error not explained by any of the factors, can indeed account for the difference in means of the dependent outcome variable between 2 factors (variance between groups)
-![[Pasted image 20250519133254.png|600]]
+![[10 ANOVA.png|600]]
 ## Types 
 **[[One way ANOVA]]**: Used when you have 1 independent variable and with many levels and one dependent variable 
 

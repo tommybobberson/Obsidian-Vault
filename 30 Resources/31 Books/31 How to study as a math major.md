@@ -18,4 +18,4 @@ updated: 2025-05-21 20:28
 
 
 ## Attachment
-![[How to Study as a Mathematics Major -- Lara Alcock -- Oxford University Press USA, Oxford, 2013 -- Oxford University Press, Usa.pdf]]
+![[31 How to study as a math major.pdf]]

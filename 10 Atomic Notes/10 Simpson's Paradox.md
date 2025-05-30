@@ -12,7 +12,7 @@ updated: 2025-05-09 11:05
 ---
 ## Definition
 Simpson's paradox is when a trend (or lack thereof) in aggregated data appears or reverses after being divided into subgroups
-![[Pasted image 20250509113323.png]]
+![[10 Simpson's Paradox.png]]
 ## Causes
 - [[10 confounders|confounding]], though not always?
 - differences in collected data (refer to example)![[10 Simpson's Paradox 2025-05-11 01.26.38.excalidraw]]

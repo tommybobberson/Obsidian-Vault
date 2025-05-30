@@ -15,7 +15,7 @@ if dependency flow is water, paths are the pipes through which they flow
 
 Refers to the flow of dependency from one variable to another as drawn out by combinations of [[10 edges]] and [[10 Nodes]] which formm different [[10 Causal Structures]]
 - can be open or closed ([[10 blocked]] or unblocked)
-![[paths 2025-04-24 14.11.59.excalidraw]]
+![[10 paths 2025-04-24 14.11.59.excalidraw]]
 
 Let there be path 1,2 ,3 etc. these are just combinations of [[10 Causal Structures]], not nodes themselves
 
