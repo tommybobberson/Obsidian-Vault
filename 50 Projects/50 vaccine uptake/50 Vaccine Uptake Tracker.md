@@ -1,3 +1,4 @@
+![[Tracker 03-06-25.excalidraw]]
 ## DAILY STUFF
 - [ ] Read and annotate 1 paper
 - [x] continue with obsidian vault structuring, add the new zotero integration template into this vault which is still using the old one
@@ -6,11 +7,24 @@
 - [ ] https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&si=RloAIEYtwcKyUV4p
 	- 1 chapter 
 - [ ] change attachments structure
-- [x] https://forum.obsidian.md/t/zotero-integration-import-templates/36310/101 
+	- [ ] Consider using i,age paste renamer instead
+	- [ ] Consider seperating literature notes and the reference itself?
+- [x] https://forum.obsidian.md/t/zotero-integration-import-templates/36310/101
+- [ ] try diff note taking structures :
+	- how to sort class notes, do you use 
+	- [ ] one note then import into obsidian
+	- [ ] put them directly in excalidraw
+	- how to take notes 
+	- [ ] take notes along side the pdf, copy and pasting where needed or 
+	- [ ] just annotating on the pdf 
+	-  how to store class notes themselves
+	- [ ] put them all in resources 
+	- [ ] put them in fleeting notes and then link them to concepts or create these links while you are note taking
+	- [ ] 
 ## **040625**
 **questions**:
 - seminars
-
+![[50 Vaccine Uptake Tracker 03-06-25.excalidraw]]
 **to do**:
 - remove vulnerable individuals from the DAG and everything else and ignore the effect too
 - check if the confidence intervals are limited by the range of the axes themselves
