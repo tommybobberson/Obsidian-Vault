@@ -3,8 +3,9 @@ status: reference
 tags:
   - book
   - resource
+  - academics
 aliases: 
-URL/DOI: The phsyical book in your bag
+source: The phsyical book in your bag
 Subjects:
   - causal inference
   - statistics
@@ -31,7 +32,7 @@ A special case of the general linear regression model.
 #### Theory behind ANOVA
 **Intuition**:
 We make an inference about if there's a difference between group means by comparing different estimates of the [[10 variance]] associated with these observations (within and across group)
-![[30 Analyzing multivariate data 2025-05-15 17.21.18.excalidraw|700]]
+![[40 Attachments/31 Analyzing multivariate data|700]]
 ### Terms of an ANOVA
 #### Single factor anova
 **m**: treatment levels
@@ -64,7 +65,7 @@ You aren't testing if the sample means are the same. Rather, you're testing if t
 	- Across all groups, the variance of observations in each group around each group mean is equal (i.e the distributions have the same shape?)
 	- total degrees of freedom across groups = n - m
 	- [[Within Group variance]] (and Sd) is constant, i.e. they exhibit [[10 Homoscedastic|homoscedasticity]]
-	- ![[30 Analyzing multivariate data 2025-05-15 18.03.46.excalidraw]]
+	- ![[31 Analyzing multivariate data 1]]
 	- Where the within group variances are equal, $\sigma_1^2 = \sigma_2^2 = ... = \sigma_m^2$
 	**across group variances**:
 	-$S^2_A$ is an unbiased estimate of $\sigma^2$ when $H_0$ is true, but not when it is false
@@ -77,7 +78,7 @@ You aren't testing if the sample means are the same. Rather, you're testing if t
 - degrees of freedom for the f test are m -1 and n - m
 - the f-statistic gives a p-value to reject if the within and across group differences differ at each x-level of significance
 	- It basically tests if the across group variances ae too far out from the within group variances such that it's not feasible for it to exist 
-	![[30 Analyzing multivariate data 2025-05-19 01.26.58.excalidraw]]
+	![[31 Analyzing multivariate data 2]]
 
 #### Two factor anova
 - 

@@ -45,7 +45,7 @@ This template helps structure your overview of a topic.
 
 ## Template
 
-*   Use the [T - MOC.md template](../90%20Meta/Templates/T%20-%20MOC.md).
+*   Use the [T - MOC.md template](T%20-%2020%20MOC.md.md).
 
 ## Key Connections
 

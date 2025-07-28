@@ -18,7 +18,7 @@ $H_1: u_i \ne u_j$ for some i and j (i. e. not **all** means are equal)
 
 You can think of it as
 
-![[10 ANOVA 2025-05-19 12.53.56.excalidraw]]
+![[40 Attachments/10 ANOVA]]
 By comparing the ratio of the within group variance against the between group variance ([[MSE]], which represents the, we see if the [[MSE]] (within group variance), which also represents the random error not explained by any of the factors, can indeed account for the difference in means of the dependent outcome variable between 2 factors (variance between groups)
 ![[10 ANOVA.png|600]]
 ## Types 

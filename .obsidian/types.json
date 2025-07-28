@@ -27,6 +27,7 @@
     "related_concepts": "multitext",
     "created": "datetime",
     "updated": "datetime",
-    "projects": "multitext"
+    "projects": "multitext",
+    "dateread": "date"
   }
 }

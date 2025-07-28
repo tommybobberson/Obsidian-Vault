@@ -26,8 +26,9 @@ DAGs allow us to study the causal relationships we want to study by [[10 blocked
 
 **elements**:
 	- **Arrow**: represents a *possibly non-zero* causal effect
+		- causal relationships flow from left to right, so arrows should flow from the left to the right (for exposure -> outcome)
 		- that is to say that an exclusion of an arrow is a bolder claim than the inclusion of one because with an arrow you are only saying that there *may* be a relationship
-		- ![[10 DAGs 2025-04-23 10.42.10.excalidraw]]
+		- ![[40 Attachments/10 directed acyclic graphs]]
 		- X -> Y means X may or may not affect Y; the absence of an arrow from x to y means there is **no** causal r/s
 	- **[[10 Nodes]]**: elements/variables linked by arrows
 	

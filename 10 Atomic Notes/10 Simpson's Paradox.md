@@ -28,7 +28,7 @@ However, once we stratify the data by individual's sex, we realise that:
 As such, we can say that age here is a confounder.
 
 **However, what if it turns out that in our not so perfectly randomised trial, we somehow managed to give mostly the people who were younger, the drug. in this case where one's age isn't causally related to the likelihood of them getting the drug, is this still a case of simpson's paradox? (or is this not applicable because we aren't specifically looking at the subgroups within each of these age categories that received treatment)
-![[10 Simpson's Paradox 2025-05-09 11.29.30.excalidraw]]
+![[40 Attachments/10 Simpson's Paradox]]
 
 in 
 

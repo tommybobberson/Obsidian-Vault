@@ -3,7 +3,7 @@
 ## Purpose
 
 Stores all **non-Markdown files** (attachments) like PDFs and images, linked *from* your `.md` notes (primarily Resource notes).
-
+![[z40 README.md 03-06-25.excalidraw]]
 ## Contents
 
 *   PDF files, image files, other relevant non-Markdown assets.
@@ -16,7 +16,7 @@ Stores all **non-Markdown files** (attachments) like PDFs and images, linked *fr
 
 
 	An example is attached below
-	![[z40 README.md 30-05-25.excalidraw]]
+	![[z40 README.md 1]]
 	Thus say i'm working on [[10 Two way ANOVA]], which is under `10 Atomic Notes`, pasting an image in the note results in an attachment that will be `40 Attachments/10 Atomic Notes/10 Two way ANOVA.png`
 
 	**note for books and resources**: when you want to import a book or any resource into obsidian, due to the nature of the file handling, create a note for that resource under `30 Resources` first, and then drag the pdf into the note. This way it's handled properly by the custom attachments plugin

@@ -13,13 +13,20 @@ status: WIP
 ---
 # Collider 
 
+To do:
+- if there's a collider variable in the **causal model,** you **should not** include it in your statistical model 
+- Do not stratify data by a collider variable as this might lead you to perceive the presence of effect modification. 
+## States of colliders
 - Unconditioned
 	- [[10 (unconditionally) independent|unconditional independence]]: _C_ ⊥ _D_ 
 	- closed
 - conditioning the collider:
 	- dependence, _C_ ⊥⁄ _D_ | _E_ 
 	- open
+
+## Conditions for independence 
 - A path that goes through a collider is **blocked** if you are **NOT** conditioning on the collider or anything that the collider causes.
+
 - The flow of dependency from C to D is [[10 blocked]]
 	-  C and D are [[10 (unconditionally) independent]]
 	
@@ -28,10 +35,11 @@ status: WIP
 
 
 
-![[10 Causal relationships 2025-04-24 10.36.14.excalidraw]]
+![[40 Attachments/10 CI Collider]]
 - imagine  C and D (both rivers) flow into E, thus if you [[condition]] on E, the descendant of the ancestors, the flow of C and D must add up (C affects D) and thus they are **dependent** e.g. 
 	- E is the probability of getting cancer, C (smoking) and D (asbestos exposure). If there is no D, then there must be C (assuming D and C are the only factors affecting cancer)
-- [[10 conditional independence]] doesn't hold either when if, the descendants of E are [[conditioned]] - as you're indirectly constraining the value of E
+- [[10 conditional independence]] doesn't hold either when if, the descendants of E are [[conditioned]] - as you're indirectly constraining the value of E (given there's a causal path between E and it's descendant)
+- ==Thus, if E is an independent variable, we don't want to have variables **colliding** on it, because then we can't estimate their isolated effects on the variable of interest==
 
 ---
 #### Linked Concepts (Auto-Generated)

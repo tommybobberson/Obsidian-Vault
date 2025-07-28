@@ -4,6 +4,7 @@ Subjects:
 tags:
   - academics
   - guide
+  - tool
 aliases:
   - r environment
   - renv

@@ -1,10 +1,12 @@
 [
-  "dataview",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian",
-  "metaedit",
-  "ink",
   "obsidian-zotero-desktop-connector",
+  "templater-obsidian",
   "obsidian-pandoc-reference-list",
-  "obsidian-custom-attachment-location"
+  "metaedit",
+  "dataview",
+  "obsidian-custom-attachment-location",
+  "pdf-plus",
+  "ink",
+  "image-converter"
 ]

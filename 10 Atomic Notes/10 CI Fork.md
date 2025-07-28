@@ -18,7 +18,7 @@ status: WIP
 - two arrows stemming from the middle node
 	- given the common ancestor (B), the branches of a fork (C & D) are independent i.e. [[10 conditioning]] for B, C and D are not [[associated]]
 	- 
-	![[10 Causal relationships 2025-04-23 18.44.58.excalidraw]]
+	![[40 Attachments/10 CI Fork]]
 
 ---
 #### Linked Concepts (Auto-Generated)

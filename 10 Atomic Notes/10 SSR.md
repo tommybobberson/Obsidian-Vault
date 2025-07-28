@@ -16,7 +16,7 @@ The sums of squares regression refers to the sum of the squared differences betw
 
 - SSR = Σ(ŷi – y^_ )2
 ## Illustration
-![[10 SSE 2025-05-21 17.47.22.excalidraw]]
+![[40 Attachments/10 SSR]]
 
 ---
 #### Linked Concepts (Auto-Generated)

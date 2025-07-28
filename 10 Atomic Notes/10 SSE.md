@@ -20,7 +20,7 @@ It is given by the sum of squared residuals in a regression. i.e. (difference of
 
 $SSE = \sum_{i=1}^{n} (Y_i - \hat{Y}_i)^2$
 
-![[10 SSE 2025-05-21 17.47.22.excalidraw]]
+![[40 Attachments/10 SSE]]
 ---
 #### Linked Concepts (Auto-Generated)
 ```dataviewjs

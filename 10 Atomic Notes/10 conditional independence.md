@@ -14,7 +14,7 @@ status: WIP
 	- Can be determined by the [[10 d seperation]] rule
 - A and C are independent when B is [[conditioned]] for
 - A and C are dependent when B is not [[conditioned]] 
-![[10 Causal relationships 2025-04-23 18.33.56.excalidraw]]
+![[40 Attachments/10 conditional independence]]
 **mathematically**:
 	$P(A \cap C | B) = P (A | B) P (C | B)$ 
 	$P(A | C \cap B) = P(A|B)$

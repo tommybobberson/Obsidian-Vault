@@ -3,9 +3,10 @@ status: stub
 tags:
   - resource
   - book
+  - academics
 aliases:
   - Introduction to Mediation, Moderation, and Conditional -- Andrew F_ Hayes
-URL/DOI: obsidian://open?vault=Obsidian%20Vault&file=40%20Attachments%2FIntroduction%20to%20Mediation%2C%20Moderation%2C%20and%20Conditional%20--%20Andrew%20F_%20Hayes%20--%203%2C%202022%20--%20The%20Guilford%20Press%20--%209781462549030%20--%2052ecb1751dbf21ce67d2145bd2f8e21d%20--%20Anna%E2%80%99s%20Archive.pdf
+source: obsidian://open?vault=Obsidian%20Vault&file=40%20Attachments%2FIntroduction%20to%20Mediation%2C%20Moderation%2C%20and%20Conditional%20--%20Andrew%20F_%20Hayes%20--%203%2C%202022%20--%20The%20Guilford%20Press%20--%209781462549030%20--%2052ecb1751dbf21ce67d2145bd2f8e21d%20--%20Anna%E2%80%99s%20Archive.pdf
 Subjects:
   - causal inference
   - statistics

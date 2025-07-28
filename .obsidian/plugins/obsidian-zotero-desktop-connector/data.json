@@ -2,13 +2,13 @@
   "database": "Zotero",
   "noteImportFolder": "39 Literature Notes",
   "pdfExportImageDPI": 120,
-  "pdfExportImageFormat": "png",
+  "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
       "name": "NIH",
-      "format": "formatted-citation",
-      "cslStyle": "national-institute-of-health-research"
+      "format": "formatted-bibliography",
+      "cslStyle": "nature"
     }
   ],
   "exportFormats": [
@@ -16,8 +16,8 @@
       "name": "Literature Note",
       "outputPathTemplate": "30 Resources/39 Literature Notes/@{{citekey}}/@{{citekey}}.md",
       "imageOutputPathTemplate": "30 Resources/39 Literature Notes/@{{citekey}}",
-      "imageBaseNameTemplate": "literature_image",
-      "templatePath": "90 Meta/Templates/ZI - Literature Note.md.md",
+      "imageBaseNameTemplate": "@{{citekey}}",
+      "templatePath": "90 Meta/Templates/ZI - 39 Literature Note.md.md",
       "cslStyle": "national-institute-of-health-research"
     }
   ],

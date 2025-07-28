@@ -30,7 +30,7 @@ $$R^2 = SSR / SST$$
 	- SSR is basically the amount of variance (relative to the mean of the response variable) that was explained by the regression line
 - where [[10 SST]] = sums of squares Total, the sum of the squared values of the difference between observed data points and mean value of the response variable
 	-  SST is the total variance
-![[10 SSE 2025-05-21 17.47.22.excalidraw]]
+![[40 Attachments/10 Coefficient of determination]]
 
 - R^2 = red / orange
 ---

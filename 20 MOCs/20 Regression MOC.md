@@ -49,14 +49,14 @@ $Y = \beta_0 + \beta_1X + W'\delta' + \epsilon$
 - As we are accounting for bias(resulting in 0 [[10 selection bias]], we can derive that, with a constant treatment effect, $Y_{1i} = Y_{0i} + k$ where K is = [[10 Average treatment effect|ATE]] = $E[Y_1 - Y_0]$ = $E[Y|T=1] - E[Y|T=0]$
 ## Types of Regression 
 The type of regression is dependent on the number and types of variables that were interested in
-- [[10 Linear Regression]] 
+- [[10 Atomic Notes/10 Linear Regression|10 Linear Regression]] 
 - [[10 Logistic Regression]]
 - [[10 univariate]] vs [[10 multivariate]]: single or multiple dependent (outcome) variables
 - [[10 simple regression]] vs [[10 multiple regression]]: single or multiple independent (predidtor) variables
 
 ## Methods of Regression 
 The Method of Regression is how the quantified estimate between variables is **calculated**
-- [[OLS]]
+- [[10 OLS]]
 - [[Maximum Likelihood ]]
 - [[10 Weighted Regression|Weighted least squares]]
 - [[10 Grouped Regression]]

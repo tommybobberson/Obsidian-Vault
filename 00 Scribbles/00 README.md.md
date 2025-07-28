@@ -11,10 +11,10 @@ This folder serves as your **inbox** or **scratchpad** for capturing quick thoug
 
 ## Workflow
 
-1.  **Capture Quickly:** Create a new note here whenever an idea strikes or you need to save something temporarily. Use the [T - Scribble.md template](T%20-%20Scribble.md.md) for quick timestamping and tagging.
+1.  **Capture Quickly:** Create a new note here whenever an idea strikes or you need to save something temporarily. Use the [T - Scribble.md template](T%20-%2000%20Scribble.md.md) for quick timestamping and tagging.
 2.  **Process Regularly:** Make it a habit to review the notes in this folder (e.g., daily or weekly).
 3.  **Refine or Discard:**
-    *   If a note contains a distinct concept, refine it and move it to [10 Atomic Notes](z10%20README.md.md) using the [T - Atomic Note.md template](../90%20Meta/Templates/T%20-%20Atomic%20Note.md).
+    *   If a note contains a distinct concept, refine it and move it to [10 Atomic Notes](z10%20README.md.md) using the [T - Atomic Note.md template](T%20-%2010%20Atomic%20Note.md.md).
     *   If it adds information to an existing note, merge the content and delete the fleeting note.
     *   If it's no longer relevant or useful, delete it.
 4.  **Goal:** Aim to keep this folder relatively empty. It's a processing queue, not long-term storage.
@@ -37,7 +37,7 @@ This template is minimal by design for quick capture.
 
 ## Template
 
-*   Use the [T - Scribble.md template](T%20-%20Scribble.md.md).
+*   Use the [T - Scribble.md template](T%20-%2000%20Scribble.md.md).
 
 ## Key Connections
 

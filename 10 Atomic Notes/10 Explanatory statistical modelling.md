@@ -10,7 +10,7 @@ aliases:
   - explanatory modelling
 status: WIP
 ---
----
+
 # Explanatory statistical modelling 
 
 - To test causal hypothesis given a causal theoretical model, to understand the causal mechanisms

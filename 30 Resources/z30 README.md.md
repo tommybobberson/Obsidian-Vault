@@ -11,7 +11,7 @@ Contains notes **about specific sources** (books, papers, courses, etc.). Each n
 
 ## Workflow
 
-1.  **Create:** New note per resource using the [T - Resource.md template](../90%20Meta/Templates/T%20-%20Resource.md). Use a descriptive title.
+1.  **Create:** New note per resource using the [T - Resource.md template](T%20-%2030%20Resource.md.md). Use a descriptive title.
 2.  **Add Metadata:** Fill in YAML frontmatter (author, year, tags, URL).
 3.  **Summarize & Extract:** Summarize and link key concepts to [10 Atomic Notes](z10%20README.md.md). *(Use specific `[[Concept]]` wikilinks here)*.
 4.  **Link Attachment:** Store file in [50 Attachments](../50%20Attachments/README.md) and link it here.
@@ -43,7 +43,7 @@ This template helps capture essential information about a source.
 
 ## Template
 
-*   Use the [T - Resource.md template](../90%20Meta/Templates/T%20-%20Resource.md).
+*   Use the [T - Resource.md template](T%20-%2030%20Resource.md.md).
 
 ## Key Connections
 

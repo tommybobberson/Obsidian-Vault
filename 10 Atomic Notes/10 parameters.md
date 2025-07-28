@@ -13,6 +13,7 @@ updated: 2025-05-08 09:32
 ## In statistics
 **Regression**
 - The coefficient (typically $\beta$) of the variable of interest
+- to be estimated using many different [[10 parameter estimation]] techniques
 
 ---
 #### Linked Concepts (Auto-Generated)

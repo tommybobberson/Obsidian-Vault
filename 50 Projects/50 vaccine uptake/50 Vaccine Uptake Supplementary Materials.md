@@ -1,6 +1,6 @@
 ## EDA
 ### COI vaccine uptake against parents' chronic illness status
 **influenza**
-![[Supplementary Materials.png]]
+![[50 Vaccine Uptake Supplementary Materials.png]]
 **Covid**
-![[Supplementary Materials 1.png]]
+![[50 Vaccine Uptake Supplementary Materials 1.png]]

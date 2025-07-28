@@ -11,14 +11,26 @@ created: 2025-05-08 09:13
 updated: 2025-05-08 09:13
 ---
 ---
+## Overview
+A general linear model is one in which the model for the dependent variable is composed of a _linear combination_ of independent variables that are each multiplied by a weight $\beta$, which determines the relative contribution of that independent variable to the model prediction.
+
+**It describes the LINK (i.e. relationship) between the response and predictor variables**
+
+- it forms the basis of statistical tests like [[40 Attachments/10 ANOVA|ANOVAS]] and [[20 Regression MOC|regression analysis]]
+- Characterised as general because they can handle a wide variety of variables including non-numerical ones, they just change it to a number prior to working on it
+## Form
+Data = Model + Error
+
 **Components**:
+- response variable, $y$
 - Intercept, $\beta_0$
 - parameters, $\beta_1$
 - explanantory variables, $X_1$
 - Error, $\epsilon$
 
-
-**Definition of Linearity**
+**Limitations**:
+- only allows fixed effects
+## **Definition of Linearity**
 GLMs are linear with respect to their parameters
 
 - The outcome of interest is linearly related to the [[10 parameters]] ($\beta$), that's to say, the rate of change of Y (outcome variable) with respect to X (explanatory variable) is independent of the value of X, because dy/dx is **only dependent** on the respective parameter $\beta$
@@ -32,6 +44,9 @@ $Y = \beta_0 + \beta_1lnX + \epsilon$
 $Y = \beta_0 + e^{\beta_1X_1} + \epsilon$
 
 
+## Other models
+- [[generalised linear mixed model]]: of which the GLM is actually a subtype, allows for [[random effects]]
+- [[generalised linear model]] 
 
 
 

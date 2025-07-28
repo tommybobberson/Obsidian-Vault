@@ -17,7 +17,7 @@ status: WIP
 $$E[Y_0|T=1] \ne E[Y_0|T=0] $$
 The expectation of the outcome (dependent variable, Y) when given no treatment $Y_0$ was different between the group which actually received the treatment and the group that didn't receive the treatment. 
 ## example
-![[10 selection bias 2025-04-30 11.39.00.excalidraw]]
+![[40 Attachments/10 selection bias]]
 - Where the green arrow is the causal r/s of interest. When we control for life expectancy, only certain combinations of income and vax uptake can exist to give our selected value of life expectancy
 - Thus, a path of dependency has been opened up between vax uptake and income.
 	given the same life expectancy, these are the possible combination of factors:

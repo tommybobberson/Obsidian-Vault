@@ -12,7 +12,9 @@ status: WIP
  - A measure of the direction (**but not strength**) of the relationship between 2 variables, i.e if they both increase together, or if one decreases while the other increases
  - **units**: depend on the variables being measured
  - **range**: $- \infty to \infty$
+ - the covariance between standardised data of 2 variables (X and Y), gives their [[10 correlation]] coefficient $$Cor(x,y) = \frac{Cov(x,y)}{s_x s_y}$$
  
+
 ![[10 covariance.png]]
 
 ## Properties of Covariance
@@ -26,9 +28,9 @@ status: WIP
 - or for larger datasets create bins of one continuous variable and create box plots for each bin (x) against y
 
 ## limitations:
-- depends on the units and thus makes it hard to interpret if the variables measured are of different units
+- depends on the units and thus makes it hard to interpret as cov varies if the variables measured are of different units
 - only works for straight line r/ss
-- doesn't show how strong the relationship is
+- doesn't show how strong the relationship is 
 
 ---
 #### Linked Concepts (Auto-Generated)

@@ -14,10 +14,15 @@ status: WIP
 - Measure of [[10 correlation]],$R^2$, is close to 1, 
 	- Thus they "tell the same story"
 	- Having multiple such variables makes it difficult for the model to identify which variable/how each variable is contributing to the dependent variable
+	
+**detection**:
+- look at correlation coefficients
+- look at [[variance inflation factors]] when adding a new variable
 
 **actions** 
 - If it is a [[10 confounders|confound]]ing variable, it should be included so it can be controlled for. ELSE
 - Should be accounted for and excess variables that are collinear, removed, for multiple linear regression 
+
 
 ---
 #### Linked Concepts (Auto-Generated)

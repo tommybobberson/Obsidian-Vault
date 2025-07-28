@@ -1,30 +1,174 @@
-![[Tracker 03-06-25.excalidraw]]
+![[40 Attachments/50 Vaccine Uptake Tracker]]
+## Stuff to work on 
 ## DAILY STUFF
 - [ ] Read and annotate 1 paper
-- [x] continue with obsidian vault structuring, add the new zotero integration template into this vault which is still using the old one
 - [ ] Study a chapter
 	AIC BIC
 - [ ] https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&si=RloAIEYtwcKyUV4p
 	- 1 chapter 
-- [ ] change attachments structure
-	- [ ] Consider using i,age paste renamer instead
-	- [ ] Consider seperating literature notes and the reference itself?
+- [x] change attachments structure
+	- [x] Consider using i,age paste renamer instead
+	- [x] Consider seperating literature notes and the reference itself?
 - [x] https://forum.obsidian.md/t/zotero-integration-import-templates/36310/101
 - [ ] try diff note taking structures :
 	- how to sort class notes, do you use 
 	- [ ] one note then import into obsidian
 	- [ ] put them directly in excalidraw
 	- how to take notes 
-	- [ ] take notes along side the pdf, copy and pasting where needed or 
+	- [x] take notes along side the pdf, copy and pasting where needed or  ==actually not bad==
+	- [ ] just annotating on the pdf 
+	-  how to store class notes themselves
+	- [ ] put them all in resources 
+	- [ ] put them in fleeting notes and then link them to concepts or create these links while you are note taking
+	
+
+## 300725
+- [ ] work on exploratory segmented model
+
+	- [ ] check assumptions for logistic regression between (age, age_cat and uptake), or is it a linear regression, given we are estimating the **proportion** of individuals at every age group???
+		- but the probability should translate to the proportion of individuals at every age group
+	- [ ] can test interaction term model first too to see if it's sufficient
+	- [ ] else figure out the difference between segmented lines and an interaction term
+	- [ ] fit model and compare it with the data that we obtained during exploratory analysis
+	- [ ] model diagnostics
+- [ ] work on slides for wolbachia
+- [ ] read up on [[10 Propensity Score]]
+
+## 160725
+**To-cover**:
+- [x] Debt and mortgage
+- [x] All of the effect mod stuff, [[50 Vaccine Uptake DAG]]
+	- [x] How do i know if effect mod between child_siblings, age_cat and age_of_interest is 2 x 2 way or a 3 way interaction?
+	- ![[50 Vaccine Uptake Tracker 16-07-25.excalidraw]]
+## **100725
+to cover**:
+- what's our variable of interest? do we have 2, no vax and full vax? or do we have one outcome which is the odds of getting fully vaccinated
+	- bc when you're running a regression model, you're loooking at all the data (vaccine status = 0, 1 and 2)
+
+## **110625**
+**ad-hoc task, the diagrams:**
+- [ ] child_age, age_cat
+- [ ] parents_highest_education, income
+
+to-cover:
+- The mystery of why the coefficient of vax uptake regarding parents who held a postgraduate qualification was lower than other qualifications, possibilities:
+	![[50 Vaccine Uptake Tracker 04-06-25.excalidraw]]
+- [x] revise dag once more and how to identify effect modifiers
+	- we can probably remove the proxies which are the parent's vaccination uptakes given they don't confound anything or aren't related causally (but they are a good indicator so maybe not)
+	- keep parents intentions/attitudes toward future vaccination?
+	- test for parents' knowledge of vaccines/attitudes towards vaccines and how that impacts uptake
+	- new interaction terms being investigated
+	- remove parents_marital_status / child_parents
+- [x] ask if we should keep the parental vaccination terms bc they have no causal effect on vaccine uptake. Or if you'd like to just examine the association between parental uptake / child's updatke Or if you want to view parental Vax as another potential outcome?
+- [x] cover new variables and add them to the dag
+	- perception as another outcome variable? and can we, from this, investigate the correlation between perception and actual uptkae
+	- mortgage: 0 vs any, across levels
+	- debt: 0 vs any, across levels
+	- working hours weekly, father and mother
+	- responding parent childcare hours daily
+-  [ ] potential vaccine uptake figures??
+	- age-category and school year
+
+**Questions:**
+- [ x] checl if can book conference room
+- [ ] Read and annotate 1 paper
+- [x] maybe pdf++?
+- [ ] Study a chapter
+	AIC BIC
+- [ ] https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus&si=RloAIEYtwcKyUV4p
+	- 1 chapter 
+- [x] change attachments structure
+	- [x] Consider using i,age paste renamer instead
+	- [x] Consider seperating literature notes and the reference itself?
+- [x] https://forum.obsidian.md/t/zotero-integration-import-templates/36310/101
+- [ ] try diff note taking structures :
+	- how to sort class notes, do you use 
+	- [ ] one note then import into obsidian
+	- [ ] put them directly in excalidraw
+	- how to take notes 
+	- [x] take notes along side the pdf, copy and pasting where needed or  ==actually not bad==
 	- [ ] just annotating on the pdf 
 	-  how to store class notes themselves
 	- [ ] put them all in resources 
 	- [ ] put them in fleeting notes and then link them to concepts or create these links while you are note taking
 	- [ ] 
+
+## 160725
+**To-cover**:
+- [ ] Debt and mortgage
+- [ ] All of the effect mod stuff
+## **100725
+to cover**:
+- what's our variable of interest? do we have 2, no vax and full vax? or do we have one outcome which is the odds of getting fully vaccinated
+	- bc when you're running a regression model, you're loooking at all the data (vaccine status = 0, 1 and 2)
+
+## **110625**
+**ad-hoc task, the diagrams:**
+- [ ] child_age, age_cat
+- [ ] parents_highest_education, income
+
+to-cover:
+- The mystery of why the coefficient of vax uptake regarding parents who held a postgraduate qualification was lower than other qualifications, possibilities:
+	![[50 Vaccine Uptake Tracker 04-06-25.excalidraw]]
+- [x] revise dag once more and how to identify effect modifiers
+	- we can probably remove the proxies which are the parent's vaccination uptakes given they don't confound anything or aren't related causally (but they are a good indicator so maybe not)
+	- keep parents intentions/attitudes toward future vaccination?
+	- test for parents' knowledge of vaccines/attitudes towards vaccines and how that impacts uptake
+	- new interaction terms being investigated
+	- remove parents_marital_status / child_parents
+- [x] ask if we should keep the parental vaccination terms bc they have no causal effect on vaccine uptake. Or if you'd like to just examine the association between parental uptake / child's updatke Or if you want to view parental Vax as another potential outcome?
+- [x] cover new variables and add them to the dag
+	- perception as another outcome variable? and can we, from this, investigate the correlation between perception and actual uptkae
+	- mortgage: 0 vs any, across levels
+	- debt: 0 vs any, across levels
+	- working hours weekly, father and mother
+	- responding parent childcare hours daily
+-  [ ] potential vaccine uptake figures??
+	- age-category and school year
+
+**Questions:**
+- [ ] when reading a paper, do you read from start to end? or do you go in looking for what you want
+
 ## **040625**
+**learn**:
+- [ ] different regression fitting methods
+**to -do**:
+- [ ] make new vaccine uptake categories for the complement of fully vaxxed and the complement of unvaxxed
+- [x] when reading a paper, do you read from start to end? or do you go in looking for what you want
+
+## **040625**
+**learn**:
+- [ ] different regression fitting methods
+**to -do**:
+- [ ] make new vaccine uptake categories for the complement of fully vaxxed and the complement of unvaxxed
+- [x] add debt and mortgage
+	
+- [x] look at any other variables that you might include?, shortlisted: **and for those chosen, update the DAG to see if it's relevant**
+	- Q12: job type (desk job, talking, using one's body)
+	- ==Q13: working hours per week, spouse and respondent==
+	- Q20: insurance
+	- Q23: housing type
+	- ==Q31.11 and Q31.10 : time spent on childcare== & time spent on housework
+	- Q82: Vice behaviour?
+- [ ] check the uptake of postgrads with income (what income level postgrads are located in, and what could have caused their interaction)
+- [ ] make sure income is continuous for regression
+- [ ] look at the interaction with income for ALLL levels of education, father and mother
+- [ ] compare models for parents_highest-ed and treating mom and dad seperately
+- [x] compress technical and JC
+- [x] get rid of mother_stay_home
+
 **questions**:
-- seminars
-![[50 Vaccine Uptake Tracker 03-06-25.excalidraw]]
+- [x] in the regressions we ran, what are the equations of interest?
+- Either parent who was a postgrad gave a different gradient **with income** so it should be an interaction between income and each parent's education 
+- another theory is that only the parents highest education affects the uptake
+- **notable points**:
+	- JC and VC for mothers result in roughly the same uptake
+	- TC and VC result in vastly different uptakes
+	- PG mothers and fathers both show an increased uptake of full coverage and a decreased uptake of no coverage at all when only education was included, but not when income was included
+- [x] seminars
+- [x] do we want to include all the new variables that we have been using as covariates in our dag as direct exposures too?
+- [ ] do i focus on learning now?? or try to apply even if i don't know what it's doing
+
 **to do**:
 - remove vulnerable individuals from the DAG and everything else and ignore the effect too
 - check if the confidence intervals are limited by the range of the axes themselves
@@ -49,11 +193,11 @@
 - [x] How stratifying education by TC, VS and JC affects vax uptake as compared to lumping them together:
 		- Current assumption: only highest educations out of both parents impacts the uptake of the vaccine. That means that, for a given 
 	- [ ] seperating the technical college/junior college category into TC, VS and JC for both mothers' and fathers' highest education (test_mother_highest_education vs test_father_highest_eduction)
-![[Tracker 2025-05-22 20.20.06.excalidraw]]
+![[50 Vaccine Uptake Tracker 1]]
  -   [ ] separating only for mother_highest_education (test_mother_highest_education vs father_highest_education)
-	![[Tracker 2025-05-26 18.03.59.excalidraw]]
+	![[50 Vaccine Uptake Tracker 2]]
 -  [ ] seperating only for father_highest_education (test_father_highest_education vs mother_highest_education
-	![[Tracker 2025-05-26 18.10.10.excalidraw]]
+	![[50 Vaccine Uptake Tracker 3]]
 ## **210525**
 **Changes to update**:
 - [ ]  Converted the number of vulnerable individuals to the presence of vulnerable individuals in a household due to the small sample of households with $>=1$ vulnerable individuals in the first place
@@ -77,7 +221,7 @@
 - [ ] Remove vulnerable individuals as a whole (as a predictor but maybe not an effect modifier)
 questions:
 - [x] Is it ok to look at individual level interactions before looking at interactions on a whole level? (look at example of household_total * child_grand and household_total_test_parents_marital_status first)
-      ![[Tracker 2025-05-19 15.58.30.excalidraw]]
+      ![[50 Vaccine Uptake Tracker 4]]
 - [x] Is it right?? to d oa manual reduction of dimensions and arbitrarily redefine the categories you're analysing e.g. instead of treating siblings as a continuous variable, you treat it as (0, 1, 2, 3+ siblings) because you realise you don't have sufficient data
 - [ ] should we condense the non vaccinated components of parent_covid_dosage into one class such as "unvaxxed"? Because there's very little data to work with and they don't seem to vary so much (new categories will be unvaxxed, partial and full similar to the children's).
       - would something that captures their despise? for the vaccine be better, i.e. those who don't want to can be (feel no need to and against it), whilst we group ineligible and undecided together
@@ -87,14 +231,14 @@ questions:
 	- Thus 0, 0 (employment status and stay home) means mothers who aren't stay home moms in the traditional sense but are: uneployed, retired or students who aren't working (phd perhaps)
 - [x] consult on the validity of ancova for the relationship between, [[age, age_group and siblings]] example (and if this should actually ever be used)
 	- [x] continue to decide test_siblings vs sibligns
-	- ![[Tracker 2025-05-14 14.31.06.excalidraw|600]]
+	- ![[50 Vaccine Uptake Tracker 5|600]]
 - [ ]  test_child_siblings and birth order vs child_siblings and birth_order
-![[Drawing 2025-05-14 13.34.12.excalidraw|700]]
+![[50 Vaccine Uptake Tracker 6|700]]
  - Tried looking at siblings with respect to test_siblings but data isn't very helpful
- - ![[Tracker 2025-05-14 14.42.12.excalidraw]]
+ - ![[50 Vaccine Uptake Tracker 7]]
 - [x] (Revisit 2) Combinations of mothers and fathers highest education
 	- [x] do we have the grounds to remove employment status
-![[Tracker 2025-05-16 13.05.38.excalidraw|700]]
+![[50 Vaccine Uptake Tracker 8|700]]
 
 
 
@@ -117,7 +261,7 @@ questions :
 - [ ] get opinion on if it's a better idea to stratify age groups by 0.5 years or 1 year, use the example of the age_child_siblings_ plots and also then
 - [ ] continuing from the 0.5 years dilemma, how to categorise them by age group too, and based on school year thing? [School Grade and Age Structures in Japan - PLAZA HOMES](https://www.realestate-tokyo.com/living-in-tokyo/education/school-grades-ages/)
 - [ ] Schooling level, age and uptake causality, age_cat is a mediator here..
-![[Drawing 2025-05-13 17.48.15.excalidraw]]
+![[50 Vaccine Uptake Tracker 9]]
 **To cover**:
 - [x] 
 ### **300425**

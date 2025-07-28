@@ -20,6 +20,9 @@ status: WIP
 - [[10 grouped data]]: data from smaller samples will have a larger variance than data from larger samples though each sample contributes to a data-point (say mean value) - this shows up as a non uniform distribution of the data points
 - e.g. points to the right have less variance as compared to the points on the left, thus there is heteroscedasticity in the data comparing average score to the number of students in a school
 	![[10 Homoscedastic 1.png]]
+
+## Consequences of heteroscedasticity
+- inaccurate [[standard error]]s
 ---
 #### Linked Concepts (Auto-Generated)
 ```dataviewjs

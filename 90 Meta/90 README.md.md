@@ -6,7 +6,7 @@ Holds files related to the **internal workings and configuration** of your Obsid
 
 ## Contents
 
-*   **`Templates/` subfolder:** Contains the `.md` note templates (e.g., [T - Fleeting Note.md](T%20-%20Scribble.md.md), [T - Atomic Note.md](Templates/T%20-%20Atomic%20Note.md), etc.) used via the Templates or Templater plugin.
+*   **`Templates/` subfolder:** Contains the `.md` note templates (e.g., [T - Fleeting Note.md](T%20-%2000%20Scribble.md.md), [T - 10 Atomic Note.md](T%20-%2010%20Atomic%20Note.md.md), etc.) used via the Templates or Templater plugin.
 
 ## Types of templates
 A variety of templates are used for different plugins and purposes, they are specified by prefixes as follows:

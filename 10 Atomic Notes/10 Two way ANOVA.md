@@ -34,7 +34,7 @@ n: number of observations per treatment
 [[SSE]]: sum of square errors
 [[MSE]]: mean square error, or the best estimate of $\sigma^2$ in the context of a 2 way anova
 ## Assumptions
-- **within group variances are the same**: Observations (between different groups) of a particular treatment are independently selected from a normal distribution with variance $\sigma^2$ (which translates to $SS_E$)
+- **within group variances are the same**: Observations (between different groups) of a particular treatment are independently selected from a normal distribution with variance $\sigma^2$ (which translates to $SS_E$ or $SS_{Error}$)
 - samples from different treatments are independent 
 - **balance design** (nice to have but not necessary): an equal number of observations in each treatment increases the power of the test
 
@@ -65,7 +65,7 @@ And subsequently, to compare the ratio of the [[10 mean squared error|MSE]]s of 
 Where the MSEs of A, B and AB represent the across group variance between groups A, B and AB. Thus, acting as a proxy for the treatment effect (i.e. how much the group means shift)
 
 Here the orange and Green groups represent the distributions and means for the dependent variable given any 2 variables. 
-![[30 Analyzing multivariate data 2025-05-19 01.26.58.excalidraw]]
+![[40 Attachments/10 Two way ANOVA]]
 - If there is a difference in treatment effects, the across group variance becomes much larger than the within group variance. (of both factors, cause they have the same variance) And thus, we can conclude that it's unlikely there isn't a real difference in the means of the 2 treatment levels (and that it's due to within group variance)
 
 ## Hypotheses testing
@@ -73,7 +73,7 @@ There are 2 levels of hypothesis testing in a 2-way anova. Testing for interacti
 
 	**the presence of an interaction preculudes testing for treatment effects of each individual variable**
 
-![[10 Two way ANOVA 2025-05-19 12.32.23.excalidraw|800]]
+![[10 Two way ANOVA 1|800]]
 
 **Interaction**
 $H_0:$ There is no interaction between the factors
@@ -97,7 +97,7 @@ $H_1$: There is an effect of factor B on the response variable
 	2. Main effects of A and B
 
 Each step can be stored in a 2-factor ANOVA table as shown below
-![[10 Two way ANOVA 2025-05-19 12.47.31.excalidraw|700]]
+![[10 Two way ANOVA 2|700]]
 
 ---
 #### Linked Concepts (Auto-Generated)

@@ -11,11 +11,17 @@ status: WIP
 ---
 ---
 # independence 
+==Being able to assess variables independently of each other is so important because only then can we estimate the true isolated effect, that each variable has on the outcome of interest==
 
 **⫫** : is independent of
+
 ## Summary/Definition
+- **properties**: independence of variables is a symmetrical relation, if not, they are said to be dependent.
+- **Formal definition**: A is independent of B if the ==knowledge that B has occurred gives us no additional information about the probability of A occurring==
+$$P(A|B) = P(A)$$
+- It then follows that, for every value of A and B that $P(A \cap B) = P(A) P(B)$
 - One thing happening doesn't affect the probability of another thing happening
-- $P(A \cap B) = P(A) P(B)$
+
 
 **can be stratified into**:
 [[10 conditional independence]]

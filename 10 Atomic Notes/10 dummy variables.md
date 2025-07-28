@@ -16,7 +16,7 @@ updated: 2025-05-14 18:45
 A binary (0 or 1) variable that indicates whether something belongs to a group 
 
 ## Overview 
-Used in [[10 Grouped Regression]] to quantify the effect of subgroups. 
+Used in [[10 Grouping data in regression]] to quantify the effect of subgroups. 
 
 The variable, $X_{group}$
 Takes the value of 1 if it (is true that it) belongs to the group and 0 if not

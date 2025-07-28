@@ -3,8 +3,9 @@ status: reference
 tags:
   - resource
   - book
+  - academics
 aliases: 
-URL/DOI: https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html
+source: https://statswithr.github.io/book/the-basics-of-bayesian-statistics.html
 Subjects:
   - statistics
 ---

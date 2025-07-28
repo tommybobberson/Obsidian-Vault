@@ -27,9 +27,9 @@ The relationships in causality can be classed differently based on the presence 
 	 - open path
 **[[10 CI Collider]]**:
 	 D -> E <- C
-	 - _C_ ⊥ _D_ and _C_ ⊥⁄ _D_ | _E_ 
+	 - _C_ ⊥ _D_ and $C \not \perp D | E$
 	- closed path 
-	- A path that goes through a collider is **blocked** if you are **NOT** conditioning on the collider or anything that the collider causes.
+	- A causal path that goes through a collider is **blocked** if you are **NOT** conditioning on the collider or anything that the collider causes.
 
 **Illustration**
 
